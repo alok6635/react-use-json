@@ -5,7 +5,7 @@ const MiPhone = ({miList}) => {
 
   return (
     <div className='features'>
-    <h2> Mi Phones Store</h2>
+    <h2> Mi Phones Store By alok</h2>
       <ul>
       {
         miList.map((element, index)=>(
