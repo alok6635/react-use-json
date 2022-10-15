@@ -1,7 +1,6 @@
 import React from 'react'
 import "./Header.css"
 
-
 const Header = () => {
   return (
    <>
@@ -10,15 +9,12 @@ const Header = () => {
 <img src='img/logo.png' width="150px" height="100px"></img>
 </a>
 <ul className='flex'>
-    <li><a href='#' className='active'>Home</a> </li>
-    <li><a href='#'>About</a> </li>
-    <li><a href='#'>Services</a> </li>
-    <li><a href='#'>Gallery</a> </li>
-    <li><a href='#'>Contact</a> </li>
-    
+    <li><a href='#' className='active'>Mobile</a> </li>
+    <li><a href='#'>Laptop</a> </li>
+    <li><a href='#'>Audio</a> </li>
+    <li><a href='#'>Home</a> </li>
+    <li><a href='#'>Tv</a> </li>
 </ul>
-
-
 </header>
 
    </>
