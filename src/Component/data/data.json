@@ -70,11 +70,11 @@
           }
     ],
     "tv": [
-          {
-                "name": "Mi QLED TV 189.34cm (75)",
-                "price": "₹ 1,24,999",
-                "image": "https://i02.appmifile.com/620_operator_in/23/04/2021/3c98ae4c034583122a67669c840f249e.jpg?width=140&height=140"
-          },
+      {
+            "name": "Mi TV 4A 108 cm (43)",
+            "price": "₹ 25,999",
+            "image": "https://i02.appmifile.com/733_operator_in/07/09/2020/a032f1b0bb0025dcb1c12caab81a9d4b.png?width=140&height=140"
+      },
           {
                 "name": "Mi QLED TV 4K 138.8 cm (55)",
                 "price": "₹ 57,999",
@@ -92,10 +92,10 @@
                 "image": "https://i02.appmifile.com/733_operator_in/07/09/2020/a032f1b0bb0025dcb1c12caab81a9d4b.png?width=140&height=140"
           },
           {
-                "name": "Mi TV 4A 100 cm (40)",
-                "price": "₹ 23,999",
-                "image": "https://i02.appmifile.com/986_operator_in/01/06/2021/f2b7747ce2bf0365e4414eb323b97ed5.jpg?width=140&height=140"
-          }
+            "name": "Redmi Smart TV X Series",
+            "price": "₹ 33,999",
+            "image": "https://i02.appmifile.com/126_operator_in/24/03/2021/8864007fcaa4d9815f02b827c29f100f.png?width=140&height=140"
+      }
     ],
     "laptop": [
           {
